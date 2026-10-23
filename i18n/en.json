@@ -1,0 +1,11 @@
+{
+  "tooltip": "Lunar calendar · right click to change the label",
+  "panel.backToToday": "Back to today",
+  "panel.previousMonth": "Previous month ([)",
+  "panel.nextMonth": "Next month (])",
+  "panel.monthYear": "%1 %2",
+  "panel.dateFormat": "dddd, d MMMM yyyy",
+  "panel.termToday": "%1 begins today",
+  "panel.nextTerm": { "one": "%1 in %2 day", "other": "%1 in %2 days" },
+  "panel.outOfRange": "Outside 1900–2100"
+}

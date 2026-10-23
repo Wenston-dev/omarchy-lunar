@@ -1,0 +1,11 @@
+{
+  "tooltip": "農曆 · 右鍵切換顯示格式",
+  "panel.backToToday": "回到今天",
+  "panel.previousMonth": "上個月 ([)",
+  "panel.nextMonth": "下個月 (])",
+  "panel.monthYear": "%2年%1",
+  "panel.dateFormat": "yyyy年M月d日 dddd",
+  "panel.termToday": "今日%1",
+  "panel.nextTerm": { "other": "距%1還有 %2 天" },
+  "panel.outOfRange": "超出 1900–2100 年"
+}

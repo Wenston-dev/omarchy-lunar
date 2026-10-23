@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.wenston-dev.lunar",
+  "name": "Lunar Calendar · 农历",
+  "version": "1.0.0",
+  "author": "wen",
+  "description": "Chinese lunar date and solar terms in the bar, with a lunar month calendar",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Lunar Calendar · 农历",
+    "description": "Lunar date label with a calendar of lunar days, solar terms, and festivals",
+    "category": "Time",
+    "allowMultiple": false,
+    "defaultSection": "centerEnd"
+  }
+}
