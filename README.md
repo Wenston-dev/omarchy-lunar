@@ -61,18 +61,6 @@ dependencies beyond Omarchy itself.
 omarchy plugin remove io.github.wenston-dev.lunar
 ```
 
-## Development
-
-`tools/` regenerates and re-verifies `Data.js`. It is not needed to run the
-plugin, and its one dependency, `lunar-javascript` (MIT), is used only there:
-
-```bash
-cd tools
-npm install
-npm run verify      # compare Lunar.js with lunar-javascript for every day
-npm run generate    # rebuild ../Data.js
-```
-
 ## 中文说明
 
 在顶栏显示今天的农历日期，逢节气或节日会一并标出。点开是一个农历月历：
