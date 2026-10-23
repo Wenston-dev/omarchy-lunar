@@ -16,6 +16,6 @@
     "description": "Lunar date label with a calendar of lunar days, solar terms, and festivals",
     "category": "Time",
     "allowMultiple": false,
-    "defaultSection": "centerEnd"
+    "defaultSection": "center"
   }
 }
